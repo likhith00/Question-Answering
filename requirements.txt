@@ -1,0 +1,4 @@
+Transformers==4.37.0
+Pytorch==2.1.2
+Datasets==2.1.0
+Tokenizers==0.15.1
